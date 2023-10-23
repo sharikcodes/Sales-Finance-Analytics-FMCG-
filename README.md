@@ -5,9 +5,9 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/SahilChipkar/Sales-Analytics-FMCG-/blob/main/Customer%20Performance%20Report.pdf)_ 
+    **1.** Create a _[customer performance report](https://github.com/sharikcodes/Sales-Finance-Analytics-FMCG-/blob/main/Customer%20Performance%20Report.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance vs sales targets](https://github.com/SahilChipkar/Sales-Analytics-FMCG-/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
+    **2.** Conduct a comprehensive comparison between _[market performance vs sales targets](https://github.com/sharikcodes/Sales-Finance-Analytics-FMCG-/blob/main/Market%20Performance%20vs%20Target.pdf)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -20,9 +20,9 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/SahilChipkar/Sales-Analytics-FMCG-/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/sharikcodes/Sales-Finance-Analytics-FMCG-/blob/main/P%20%26%20L%20By%20Fiscal%20Years.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/SahilChipkar/Sales-Analytics-FMCG-/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/sharikcodes/Sales-Finance-Analytics-FMCG-/blob/main/Sales_report.pdf)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
